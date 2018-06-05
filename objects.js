@@ -1,4 +1,4 @@
-const rock = {Nickelback : 'Photograph'};
+const playlist = {Nickelback : 'Photograph'};
 
 function updatePlaylist(playlist, artistName, songTitle) {
 
